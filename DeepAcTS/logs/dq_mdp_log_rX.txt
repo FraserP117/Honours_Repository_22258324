@@ -1,0 +1,384 @@
+
+
+-----------------------------------------------------------------
+File opened at 2023-06-24 11:18:59.428160
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 5000, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+
+
+
+-----------------------------------------------------------------
+File opened at 2023-06-24 11:54:00.909218
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 5000, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+  device=cpu
+
+Environment is: CartPole-v1
+Training started at 2023-06-24 11:54:00.929229
+
+
+-----------------------------------------------------------------
+File opened at 2023-06-24 11:55:13.232500
+Default parameters:
+{'run_id': '_rX', 'device': 'cpu', 'env': 'CartPole-v1', 'n_episodes': 5000, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+
+Environment is: CartPole-v1
+Training started at 2023-06-24 11:55:13.233619
+
+
+-----------------------------------------------------------------
+File opened at 2023-06-24 11:55:59.231424
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 5000, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+  device=cpu
+
+Environment is: CartPole-v1
+Training started at 2023-06-24 11:55:59.232531
+
+
+-----------------------------------------------------------------
+File opened at 2023-06-24 12:52:40.307742
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 5000, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+  device=cpu
+
+
+
+-----------------------------------------------------------------
+File opened at 2023-06-24 12:54:22.429811
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 5000, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+  device=cpu
+
+Environment is: CartPole-v1
+Training started at 2023-06-24 12:54:22.431283
+
+
+-----------------------------------------------------------------
+File opened at 2023-06-24 12:55:30.476458
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 5000, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+  device=cpu
+
+Environment is: CartPole-v1
+Training started at 2023-06-24 12:55:30.477686
+
+
+-----------------------------------------------------------------
+File opened at 2023-06-24 12:56:15.230093
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 5000, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+  device=cpu
+
+Environment is: CartPole-v1
+Training started at 2023-06-24 12:56:15.231342
+
+
+-----------------------------------------------------------------
+File opened at 2023-06-24 12:58:19.875205
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 5000, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+  device=cpu
+
+Environment is: CartPole-v1
+Training started at 2023-06-24 12:58:19.876439
+
+
+-----------------------------------------------------------------
+File opened at 2023-06-24 13:01:42.885484
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 5000, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+  device=cpu
+
+Environment is: CartPole-v1
+Training started at 2023-06-24 13:01:42.886695
+
+
+-----------------------------------------------------------------
+File opened at 2023-06-24 13:02:48.861318
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 5000, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+  device=cpu
+
+Environment is: CartPole-v1
+Training started at 2023-06-24 13:02:48.862540
+
+
+-----------------------------------------------------------------
+File opened at 2023-06-24 13:04:00.412727
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 5000, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+  device=cpu
+
+Environment is: CartPole-v1
+Training started at 2023-06-24 13:04:00.413984
+
+
+-----------------------------------------------------------------
+File opened at 2023-06-24 13:04:41.783481
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 5000, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+  device=cpu
+
+Environment is: CartPole-v1
+Training started at 2023-06-24 13:04:41.784701
+
+
+-----------------------------------------------------------------
+File opened at 2023-06-24 13:55:40.575564
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 5000, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+  device=cpu
+
+Environment is: CartPole-v1
+Training started at 2023-06-24 13:55:40.576776
+
+
+-----------------------------------------------------------------
+File opened at 2023-06-24 13:57:32.303989
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 5000, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+  device=cpu
+
+Environment is: CartPole-v1
+Training started at 2023-06-24 13:57:32.305288
+
+
+-----------------------------------------------------------------
+File opened at 2023-06-24 14:04:43.784513
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 5000, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+  device=cpu
+
+Environment is: CartPole-v1
+Training started at 2023-06-24 14:04:43.785717
+
+
+-----------------------------------------------------------------
+File opened at 2023-06-24 14:07:47.803274
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 5000, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+  device=cpu
+
+Environment is: CartPole-v1
+Training started at 2023-06-24 14:07:47.804488
+Episodes:  100, eps=0.009986, avg score: 24.59, over last 100: 24.55
+Episodes:  200, eps=0.009986, avg score: 115.36, over last 100: 207.04
+Episodes:  300, eps=0.009986, avg score: 200.30, over last 100: 371.02
+
+
+-----------------------------------------------------------------
+File opened at 2023-10-05 16:35:12.513790
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 100, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+
+Environment is: CartPole-v1
+Training started at 2023-10-05 16:35:13.255829
+Training finished at 2023-10-05 16:35:27.961470
+
+-----------------------------------------------------------------
+File opened at 2023-10-05 17:36:44.356214
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 100, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+
+Environment is: CartPole-v1
+Training started at 2023-10-05 17:36:44.357212
+Training finished at 2023-10-05 17:37:00.017323
+
+-----------------------------------------------------------------
+File opened at 2023-10-05 17:46:31.278809
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 50, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+
+Environment is: CartPole-v1
+Training started at 2023-10-05 17:46:31.282798
+Training finished at 2023-10-05 17:46:37.084289
+
+-----------------------------------------------------------------
+File opened at 2023-10-05 18:17:16.788039
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 100, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+
+Environment is: CartPole-v1
+Training started at 2023-10-05 18:17:16.791031
+Training finished at 2023-10-05 18:17:26.929913
+
+-----------------------------------------------------------------
+File opened at 2023-10-05 18:36:21.904388
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 100, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+
+Environment is: CartPole-v1
+Training started at 2023-10-05 18:36:21.914361
+Training finished at 2023-10-05 18:36:33.643735
+
+-----------------------------------------------------------------
+File opened at 2023-10-05 20:06:39.112449
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 500, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+
+Environment is: CartPole-v1
+Training started at 2023-10-05 20:06:39.117442
+Episodes:  100, eps=0.009986, avg score: 14.18, over last 100: 14.15
+Episodes:  200, eps=0.009986, avg score: 59.32, over last 100: 104.92
+Episodes:  300, eps=0.009986, avg score: 156.23, over last 100: 351.00
+Episodes:  400, eps=0.009986, avg score: 196.09, over last 100: 316.07
+Training finished at 2023-10-05 20:24:17.263323
+
+-----------------------------------------------------------------
+File opened at 2023-10-05 21:36:49.246698
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 100, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+
+Environment is: CartPole-v1
+Training started at 2023-10-05 21:36:49.249689
+Training finished at 2023-10-05 21:37:13.322427
+
+-----------------------------------------------------------------
+File opened at 2023-10-05 22:21:11.859182
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 200, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+
+Environment is: CartPole-v1
+Training started at 2023-10-05 22:21:11.864168
+Episodes:  100, eps=0.009986, avg score: 29.72, over last 100: 29.70
+Training finished at 2023-10-05 22:25:45.495895
+
+-----------------------------------------------------------------
+File opened at 2023-10-15 19:29:23.366499
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 200, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+
+Environment is: CartPole-v1
+Training started at 2023-10-15 19:29:23.368493
+Episodes:  100, eps=0.009986, avg score: 18.11, over last 100: 17.96
+Training finished at 2023-10-15 19:31:20.163306
+
+-----------------------------------------------------------------
+File opened at 2023-10-16 01:24:56.694824
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 200, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+
+Environment is: CartPole-v1
+Training started at 2023-10-16 01:24:56.696818
+Episodes:  100, eps=0.009986, avg score: 23.38, over last 100: 23.10
+Training finished at 2023-10-16 01:27:57.237772
+
+-----------------------------------------------------------------
+File opened at 2023-10-16 01:43:28.255882
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 200, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+
+Environment is: CartPole-v1
+Training started at 2023-10-16 01:43:28.259873
+Episodes:  100, eps=0.009986, avg score: 16.79, over last 100: 16.68
+Training finished at 2023-10-16 01:44:31.255005
+
+-----------------------------------------------------------------
+File opened at 2023-10-16 01:56:48.029835
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 200, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+
+Environment is: CartPole-v1
+Training started at 2023-10-16 01:56:48.031859
+Episodes:  100, eps=0.009986, avg score: 19.13, over last 100: 19.18
+Training finished at 2023-10-16 01:58:44.008716
+
+-----------------------------------------------------------------
+File opened at 2023-10-16 02:09:12.831321
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 200, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+
+Environment is: CartPole-v1
+Training started at 2023-10-16 02:09:12.833315
+Episodes:  100, eps=0.009986, avg score: 20.33, over last 100: 20.33
+Training finished at 2023-10-16 02:10:32.986016
+
+-----------------------------------------------------------------
+File opened at 2023-10-16 02:24:55.290509
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 200, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+
+Environment is: CartPole-v1
+Training started at 2023-10-16 02:24:55.291506
+Episodes:  100, eps=0.009986, avg score: 25.69, over last 100: 25.82
+Training finished at 2023-10-16 02:27:17.110133
+
+-----------------------------------------------------------------
+File opened at 2023-10-16 02:38:31.177624
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 100, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+
+Environment is: CartPole-v1
+Training started at 2023-10-16 02:38:31.179619
+Training finished at 2023-10-16 02:38:43.764966
+
+-----------------------------------------------------------------
+File opened at 2023-10-16 02:49:27.023476
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 100, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+
+Environment is: CartPole-v1
+Training started at 2023-10-16 02:49:27.025470
+Training finished at 2023-10-16 02:49:39.641735
+
+-----------------------------------------------------------------
+File opened at 2023-10-16 03:02:06.484379
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 500, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+
+Environment is: CartPole-v1
+Training started at 2023-10-16 03:02:06.487371
+Episodes:  100, eps=0.009986, avg score: 18.53, over last 100: 18.54
+Episodes:  200, eps=0.009986, avg score: 108.86, over last 100: 200.08
+Episodes:  300, eps=0.009986, avg score: 180.65, over last 100: 324.97
+Episodes:  400, eps=0.009986, avg score: 215.68, over last 100: 321.11
+Training finished at 2023-10-16 03:18:38.086922
+
+-----------------------------------------------------------------
+File opened at 2023-10-16 08:17:21.549065
+Default parameters:
+{'run_id': '_rX', 'device': 'cuda', 'env': 'CartPole-v1', 'n_episodes': 500, 'n_hidden': 64, 'lr': 0.001, 'memory_capacity': 65536, 'batch_size': 32, 'freeze_period': 25, 'gamma': 0.98, 'eps_max': 0.99, 'eps_min': 0.01, 'eps_decay': 0.995, 'print_timer': 100, 'keep_log': True, 'log_path': 'logs/dq_mdp_log{}.txt', 'log_save_timer': 10, 'save_results': True, 'results_path': 'results/dq_mdp_results{}.npz', 'results_save_timer': 500, 'save_network': True, 'network_save_path': 'networks/dq_mdp_policynet{}.pth', 'network_save_timer': 500, 'load_network': False, 'network_load_path': 'networks/dq_mdp_policynet_rX.pth'}
+Custom parameters:
+
+Environment is: CartPole-v1
+Training started at 2023-10-16 08:17:21.551060
+Episodes:  100, eps=0.009986, avg score: 40.11, over last 100: 40.22
+Episodes:  200, eps=0.009986, avg score: 199.04, over last 100: 359.56
+Episodes:  300, eps=0.009986, avg score: 294.87, over last 100: 487.49
+Episodes:  400, eps=0.009986, avg score: 336.35, over last 100: 461.22
+Training finished at 2023-10-16 08:41:07.437765
